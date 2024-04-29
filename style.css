@@ -1,0 +1,41 @@
+*{
+   margin: 0;
+   padding: 0;
+   box-sizing: border-box;
+}
+
+body{
+   background-color: bisque;
+   color: brown;
+   margin: auto;
+   height: 100%;
+   width: 100%;
+}
+
+#main{
+   margin: 10px 150px;
+}
+
+h1{
+   font-size: 60px;
+   font-family: cursive;
+   color: rgb(245, 32, 32);
+   text-decoration: 2px underline brown;
+   text-align: center;
+   margin: 10px 30px;
+}
+
+a{
+   font-size: 40px;
+   margin: 30px 20px;
+   margin-bottom: 15px;
+}
+
+p{
+   font-size: 30px;
+   margin: 20px 80px;
+}
+
+hr{
+   margin: 40px;
+}
